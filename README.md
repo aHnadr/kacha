@@ -1,4 +1,4 @@
-# Kacha - Cafeteria Restaurant Buffet
+# Kacha - Cafeteria Restaurant Buffet Grill
 
 ## Overview
 Welcome to **Kacha**, a cafeteria restaurant buffet website built solely by **OmosH**, a talented computer engineer who has transitioned to freelancing as a web developer due to the job crisis in Kenya. Despite the challenges, OmosH is dedicated to finding clients and showcasing his expertise through his work.
